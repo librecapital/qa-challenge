@@ -1,0 +1,12 @@
+node_modules/
+/reports/
+/playwright-report/
+/playwright/.cache/
+src/test/features/_*LivingDocumentation_backup
+/allure-report/
+/allure-results/
+# Do not remove the following line or you could end up publishing sensitive information
+config/.env
+.env*
+package-lock.json
+.DS_Store
